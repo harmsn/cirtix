@@ -1,0 +1,76 @@
+#s1{
+	margin-top:43px; 
+	font-family: "citrixsans-light",sans-serif,arial;
+	color: black;
+	font-weight: 10;
+	font-size: 35px;
+}
+#button {
+	margin-top:-63px; 
+	margin-left: 1193px;
+    background-color: #42a5f5; /* blue */
+    border: none;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 42px;
+    width: 145px;
+}
+#content1{
+	line-height: 3;
+    font-family: "citrixsans-light",sans-serif,arial;
+    color: #ff5f14;
+    font-size: 35px;
+    font-weight: 10;
+    text-align: center;
+}
+#gd1{
+	font-size:30px;
+	font-weight: normal;
+	padding-top: 3px;
+}
+#gd11{
+	font-size:30px;
+	font-weight: normal;
+	margin-top: -13px;
+}
+#gd12{
+	font-size:20px;
+	padding: 3px;
+	font-size: 20px;
+	font-weight: normal;
+}
+#gd2{
+	font-size:15px;
+	padding: 3px;
+	text-align: center;
+	font-weight: normal;
+}
+#box{
+	background: green;
+	height: 100px;
+	
+}
+#b1{
+	margin-top:-75px;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+}
+#lm{
+
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	margin-left: 645px;
+}
+#outer{
+	font-size: 25px;
+	color: black;
+	text-align: center;
+	margin-top:60px; 
+}
